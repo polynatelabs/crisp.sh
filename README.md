@@ -1,4 +1,4 @@
-# Crisp.io
+# Crisp
 
 Shorter link and (ephemeral) file uploads for humans
 
