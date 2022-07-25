@@ -1,6 +1,6 @@
 # Crisp
 
-Shorter link and (ephemeral) file uploads for humans
+Shorter links and (ephemeral) file uploads for humans
 
 ## Getting Started
 
